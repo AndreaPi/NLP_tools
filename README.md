@@ -32,3 +32,9 @@ https://github.com/allenai/allennlp
 Holmes: Information extraction with spaCy from English and German texts, based on predicate logic. Supports a range of use cases from conversational applications to document classification and comes with very extensive docs!
 
 https://github.com/msg-systems/holmes-extractor
+
+
+## tabulizer
+Extract tables from pdfs (R)
+
+https://github.com/ropensci/tabulizer
